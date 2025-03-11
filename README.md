@@ -12,10 +12,15 @@ Este é um projeto simples utilizando HTML e CSS para testar o efeito parallax. 
 - HTML
 - CSS
 
-##Prints da Aplicação
+## Prints da Aplicação
+
 Abaixo estão alguns prints da aplicação com o efeito parallax implementado:
 
-![image](https://github.com/user-attachments/assets/2f22f4a1-03d7-4953-8189-85fd9e63baed)
-![image](https://github.com/user-attachments/assets/8fc9492a-26db-4d04-93b4-58151c3f60f1)
-![image](https://github.com/user-attachments/assets/028c9658-f704-4f5c-8f1b-cd0c088cb8e5)
+![Imagem 1](https://github.com/user-attachments/assets/2f22f4a1-03d7-4953-8189-85fd9e63baed)  
+*Efeito parallax em ação com o fundo e o conteúdo se movendo em velocidades diferentes.*
 
+![Imagem 2](https://github.com/user-attachments/assets/8fc9492a-26db-4d04-93b4-58151c3f60f1)  
+*Detalhe do movimento do conteúdo durante a rolagem.*
+
+![Imagem 3](https://github.com/user-attachments/assets/028c9658-f704-4f5c-8f1b-cd0c088cb8e5)  
+*Visão geral do efeito parallax sendo aplicado à página.*
