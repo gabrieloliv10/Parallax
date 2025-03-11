@@ -11,3 +11,4 @@ Este é um projeto simples utilizando HTML e CSS para testar o efeito parallax. 
 
 - HTML
 - CSS
+![image](https://github.com/user-attachments/assets/2f22f4a1-03d7-4953-8189-85fd9e63baed)
